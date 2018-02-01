@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Inject.cpp">
+    <ClCompile Include="HookInterlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
