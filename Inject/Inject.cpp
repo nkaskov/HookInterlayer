@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <atlstr.h>
 #include <atlpath.h>
 
